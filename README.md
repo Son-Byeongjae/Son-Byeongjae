@@ -4,7 +4,7 @@ I major in CS and minor in Economics & Finance in HYU.
 
 I'm interested in machine learning for finance and solving algorithm problems!!
 
-If you have any questions, contact me by email, brbr7904@naver.com
+If you have any questions, contact me by email, brbr7904@gmail.com
 <!---
 Son-Byeongjae/Son-Byeongjae is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
