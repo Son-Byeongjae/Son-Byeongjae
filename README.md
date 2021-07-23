@@ -2,7 +2,7 @@ Hello, My name is Son Byeongjae.
 
 I major in CS and minor in Economics & Finance in HYU.
 
-Now, I'm interested in solving algorithm problems!!
+Now, I'm interested in solving algorithm problems and ML
 
 If you have any questions, contact me by email, brbr7904@naver.com
 <!---
