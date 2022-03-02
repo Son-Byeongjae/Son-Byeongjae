@@ -3,7 +3,7 @@
 
 - 💻 I **major in Computer Science in Hanyang University** in South Korea
 
-- 🌱 I’m currently learning **Java, Spring, JavaScript, React**
+- 🌱 I’m currently learning **Algorithm, Java, Spring, JavaScript, React**
 
 - 📫 Connect with me :  **byeongjae.dev@gmail.com**
 
