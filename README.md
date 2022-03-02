@@ -10,7 +10,7 @@
 <br><br>
 <h3 align="center">✨ Experience ✨</h3>
 <ul>
-  <li>(21.07 - 21.12) Google Machine Leaning Bootcamp</li>
+  <li>(21.07 - 21.12) Google Developers Machine Learning Bootcamp </li>
   <li>(22.01 - 22.02) Samsung Electronics' DX winter college student S/W algorithm capacity building process. </li>
 </ul>
 
