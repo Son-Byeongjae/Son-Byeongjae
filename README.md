@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Son-Byeongjae</h1>
-<h3 align="center">I wanna be a software developer who helps with people!</h3>
+<h3 align="center">I wanna be a software developer who benefits the world!</h3>
+
 <br>
 
 - 💻 I **major in Computer Science in Hanyang University** in South Korea
