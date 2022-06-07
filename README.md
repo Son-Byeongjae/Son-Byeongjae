@@ -5,7 +5,7 @@
 
 - 💻 I **major in Computer Science in Hanyang University** in South Korea
 
-- 🌱 I’m currently learning **OS, Algorithm, Java, Spring**
+- 🌱 I’m currently learning **OS, Algorithm, Java, Spring, Django**
 
 - 📫 Connect with me :  **byeongjae.dev@gmail.com**
 
